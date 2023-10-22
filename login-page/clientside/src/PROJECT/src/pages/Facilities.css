@@ -1,0 +1,202 @@
+.headerbackimage-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1917px;
+  height: 478.3px;
+  object-fit: cover;
+}
+.basketballback {
+  position: absolute;
+  top: 636.4px;
+  left: 1012.5px;
+  border-radius: 0 0 42.43px 42.43px;
+  background-color: #d47676;
+  border: 1.9px solid var(--color-black);
+  box-sizing: border-box;
+  width: 848.6px;
+  height: 817.7px;
+}
+.basketball2 {
+  position: relative;
+  font-size: 42.43px;
+}
+.outdoor-basketball {
+  position: relative;
+  display: inline-block;
+  width: 349.1px;
+  height: 42.4px;
+  flex-shrink: 0;
+}
+.the-outdoor-basketball {
+  margin: 0;
+}
+.the-outdoor-basketball-container {
+  position: relative;
+  text-align: justify;
+  display: inline-block;
+  width: 800.4px;
+  height: 320.1px;
+  flex-shrink: 0;
+}
+.basketball1 {
+  position: absolute;
+  top: 1004px;
+  left: 1045px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 33px;
+}
+.tennisback {
+  position: relative;
+  background-color: var(--color-lightcoral-100);
+  width: 825.4px;
+  height: 788.8px;
+  z-index: 0;
+}
+.university-of-peradeniya2 {
+  position: absolute;
+  margin: 0 !important;
+  top: 491.8px;
+  left: 32.8px;
+  text-align: justify;
+  display: inline-block;
+  width: 767.6px;
+  z-index: 1;
+}
+.outdoor-tennis-courts {
+  position: absolute;
+  margin: 0 !important;
+  top: 425.6px;
+  left: 32.6px;
+  z-index: 2;
+}
+.tennis-courts,
+.tennisimage-icon {
+  position: absolute;
+  margin: 0 !important;
+  left: 28.9px;
+}
+.tennis-courts {
+  top: 354.9px;
+  font-size: 42.43px;
+  display: inline-block;
+  z-index: 3;
+}
+.tennisimage-icon {
+  top: 17.4px;
+  border-radius: 25.07px;
+  width: 767.6px;
+  height: 312.4px;
+  object-fit: cover;
+  z-index: 4;
+}
+.basketballimage-icon,
+.tenniscourt {
+  position: absolute;
+  border-radius: 28.93px;
+}
+.tenniscourt {
+  top: 636.4px;
+  left: 96.4px;
+  background-color: var(--color-lightcoral-100);
+  width: 825.4px;
+  height: 817.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19.29px;
+}
+.basketballimage-icon {
+  top: calc(50% - 169.75px);
+  left: calc(50% + 86.8px);
+  width: 788.8px;
+  height: 316.3px;
+  object-fit: cover;
+}
+.available-facilities {
+  position: relative;
+  font-weight: 500;
+  backdrop-filter: blur(7.71px);
+  -webkit-text-stroke: 5.8px #000;
+}
+.header4 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  background-color: rgba(157, 157, 157, 0.62);
+  height: 476px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 75px 301px;
+  box-sizing: border-box;
+  font-size: 123.43px;
+  color: var(--color-white);
+  font-family: var(--font-inknut-antiqua);
+}
+.searchinput {
+  position: relative;
+  border-radius: 67.5px;
+  background-color: var(--color-white);
+  border: 1.9px solid var(--color-black);
+  box-sizing: border-box;
+  width: 777.2px;
+  height: 79.1px;
+  opacity: 0.9;
+  z-index: 0;
+}
+.search-here,
+.searchicon {
+  position: absolute;
+  margin: 0 !important;
+  top: 13.5px;
+}
+.searchicon {
+  left: 700.1px;
+  width: 54px;
+  height: 52.1px;
+  object-fit: cover;
+  z-index: 1;
+}
+.search-here {
+  border: 0;
+  font-family: var(--font-jetbrains-mono);
+  font-size: 36.64px;
+  background-color: transparent;
+  left: 34.7px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  opacity: 0.71;
+  z-index: 2;
+}
+.search {
+  position: absolute;
+  top: 381.9px;
+  left: 1107px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.facilities1 {
+  position: relative;
+  width: 100%;
+  height: 1654.7px;
+  overflow: hidden;
+  background-image: url(/public/facilities@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 38.57px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

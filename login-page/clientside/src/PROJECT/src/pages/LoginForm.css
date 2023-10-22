@@ -1,0 +1,138 @@
+.background5 {
+  position: absolute;
+  top: -6.4px;
+  left: 0;
+  background-color: var(--color-gray-700);
+  width: 1917px;
+  height: 1265.9px;
+}
+.loginback1 {
+  position: absolute;
+  top: 520.9px;
+  left: calc(50% - 384.3px);
+  border-radius: 59.77px;
+  background-color: rgba(222, 222, 222, 0.97);
+  border: 2.1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 766.4px;
+  height: 593.5px;
+}
+.loginlogo-icon {
+  position: absolute;
+  top: 401.3px;
+  left: calc(50% - 115.3px);
+  width: 228.9px;
+  height: 213.5px;
+  object-fit: cover;
+}
+.creates-an-account {
+  text-decoration: none;
+  position: absolute;
+  top: 1039.6px;
+  left: calc(50% - 111px);
+  color: #3734cc;
+  cursor: pointer;
+}
+.login,
+.sign-in-to {
+  position: absolute;
+  top: 670.3px;
+  left: calc(50% - 200.7px);
+  font-size: 29.89px;
+  font-family: var(--font-kadwa);
+}
+.login {
+  top: 604.1px;
+  left: calc(50% - 68.3px);
+  font-size: 51.23px;
+  font-family: var(--font-inika);
+}
+.usernameicon,
+.usernameinput {
+  position: absolute;
+  top: 747.2px;
+  height: 61.9px;
+}
+.usernameinput {
+  left: calc(50% - 266.8px);
+  background-color: var(--color-white);
+  border: 2.1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 531.6px;
+}
+.usernameicon {
+  left: 691.7px;
+  width: 68.3px;
+  object-fit: cover;
+}
+.passwordicon,
+.passwordinput {
+  position: absolute;
+  top: 845.4px;
+  height: 61.9px;
+}
+.passwordinput {
+  left: calc(50% - 266.8px);
+  background-color: var(--color-white);
+  border: 2.1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 531.6px;
+}
+.passwordicon {
+  left: 691.7px;
+  width: 68.3px;
+  object-fit: cover;
+}
+.email-username,
+.password1 {
+  border: 0;
+  font-family: var(--font-lexend-exa);
+  font-size: 25.62px;
+  background-color: transparent;
+  position: absolute;
+  top: 860.3px;
+  left: 770.6px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 147.3px;
+}
+.email-username {
+  top: 762.1px;
+  width: 320.2px;
+}
+.signinbox {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #3753ea;
+  position: absolute;
+  top: 937.2px;
+  left: calc(50% - 79px);
+  width: 158px;
+  height: 57.6px;
+}
+.login1 {
+  position: absolute;
+  top: 932.9px;
+  left: calc(50% - 68.3px);
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 136.6px;
+}
+.login-form {
+  position: relative;
+  width: 100%;
+  height: 1259.5px;
+  overflow: hidden;
+  background-image: url(/public/registrationform@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 25.62px;
+  color: var(--color-black);
+  font-family: var(--font-leelawadee);
+}

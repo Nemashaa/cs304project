@@ -1,0 +1,197 @@
+.background-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1917px;
+  height: 1866px;
+}
+.book {
+  position: relative;
+}
+.baseball1,
+.baseballbook,
+.batbook {
+  position: absolute;
+  top: 677.4px;
+  left: 1147px;
+  border-radius: 17.86px;
+  background-color: var(--color-goldenrod-200);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 41.07219314575195px 61.60828399658203px;
+  cursor: pointer;
+  font-size: 53.57px;
+  color: var(--color-black);
+  font-family: var(--font-jetbrains-mono);
+}
+.baseballbook,
+.batbook {
+  top: 948px;
+  left: 1237px;
+}
+.baseballbook {
+  top: 1218px;
+  left: 1273px;
+}
+.badmintonicon {
+  position: absolute;
+  top: 97px;
+  left: 1112px;
+  border-radius: 50.89px;
+  width: 753.6px;
+  height: 331.3px;
+  object-fit: cover;
+  opacity: 0.55;
+}
+.haederback {
+  position: absolute;
+  top: 185px;
+  left: 134px;
+  border-radius: 36.61px;
+  background-color: var(--color-dimgray-200);
+  width: 502.7px;
+  height: 201.8px;
+}
+.baseball2 {
+  position: relative;
+  font-size: 71.43px;
+  color: #1ac5eb;
+}
+.header1,
+.header2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header2 {
+  height: 106.3px;
+  gap: 88.39px;
+}
+.header1 {
+  position: absolute;
+  top: 223.4px;
+  left: 192px;
+  padding: 8.92873764038086px;
+  font-size: var(--font-size-43xl-5);
+  color: var(--color-lime);
+  font-family: var(--font-inria-serif);
+}
+.total-number-of {
+  margin: 0;
+}
+.available-number-of-container,
+.total-number-of-container {
+  position: absolute;
+  top: 639px;
+  left: 134px;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1044px;
+  height: 187px;
+}
+.available-number-of-container {
+  top: 1162px;
+  height: 202px;
+}
+.div {
+  top: 639px;
+  left: 973.8px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 108px;
+  height: 84.8px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+}
+.div1 {
+  top: 982px;
+  left: 1046px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 108px;
+  height: 84.8px;
+}
+.div2 {
+  top: 718.5px;
+  left: 973.8px;
+}
+.div2,
+.div3,
+.div4 {
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 108px;
+  height: 84.8px;
+}
+.div3 {
+  position: absolute;
+  top: 904px;
+  left: 1046px;
+}
+.div4 {
+  top: 1236px;
+  left: 1086px;
+}
+.cancel,
+.div4,
+.div5 {
+  position: absolute;
+}
+.div5 {
+  top: 1157.8px;
+  left: 1099.7px;
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 108px;
+  height: 84.8px;
+}
+.cancel {
+  top: 1634px;
+  left: 1314px;
+  background-color: var(--color-dimgray-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 85.83582305908203px;
+  cursor: pointer;
+  font-size: 38.15px;
+  font-family: var(--font-inknut-antiqua);
+}
+.total-number-of-container1 {
+  position: absolute;
+  top: 908px;
+  left: 134px;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1044px;
+  height: 161px;
+}
+.baseball {
+  position: relative;
+  width: 100%;
+  height: 1866.1px;
+  overflow: hidden;
+  background-image: url(/public/baseball@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 57.14px;
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}

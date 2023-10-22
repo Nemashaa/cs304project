@@ -1,0 +1,412 @@
+.background1 {
+  position: absolute;
+  top: -0.1px;
+  left: -3px;
+  background-color: rgba(32, 32, 32, 0.92);
+  width: 1920px;
+  height: 1516.9px;
+}
+.row1,
+.row10,
+.row11,
+.row12,
+.row2,
+.row3,
+.row4,
+.row5,
+.row6,
+.row7,
+.row8,
+.row81,
+.row9,
+.topicrow {
+  position: absolute;
+  top: 272.9px;
+  left: 87px;
+  background-color: var(--color-gray-600);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1740.8px;
+  height: 83.6px;
+}
+.row1,
+.row10,
+.row11,
+.row12,
+.row2,
+.row3,
+.row4,
+.row5,
+.row6,
+.row7,
+.row8,
+.row81,
+.row9 {
+  top: 353.5px;
+  height: 80.6px;
+}
+.row10,
+.row11,
+.row12,
+.row2,
+.row3,
+.row4,
+.row5,
+.row6,
+.row7,
+.row8,
+.row81,
+.row9 {
+  top: 428.1px;
+}
+.row10,
+.row11,
+.row12,
+.row3,
+.row4,
+.row5,
+.row6,
+.row7,
+.row8,
+.row81,
+.row9 {
+  top: 508.8px;
+}
+.row10,
+.row11,
+.row12,
+.row4,
+.row5,
+.row6,
+.row7,
+.row8,
+.row81,
+.row9 {
+  top: 589.4px;
+}
+.row10,
+.row11,
+.row12,
+.row5,
+.row6,
+.row7,
+.row8,
+.row81,
+.row9 {
+  top: 670px;
+}
+.row10,
+.row11,
+.row12,
+.row6,
+.row7,
+.row8,
+.row81,
+.row9 {
+  top: 750.6px;
+}
+.row10,
+.row11,
+.row12,
+.row7,
+.row8,
+.row81,
+.row9 {
+  top: 831.3px;
+}
+.row10,
+.row11,
+.row12,
+.row8,
+.row81,
+.row9 {
+  top: 911.9px;
+}
+.row10,
+.row11,
+.row12,
+.row81,
+.row9 {
+  top: 992.5px;
+}
+.row10,
+.row11,
+.row12,
+.row9 {
+  top: 1073.1px;
+}
+.row10,
+.row11,
+.row12 {
+  top: 1153.7px;
+}
+.row11,
+.row12 {
+  top: 1234.4px;
+}
+.row12 {
+  top: 1315px;
+}
+.monday,
+.pm-500pm,
+.tuesday,
+.wednsday {
+  position: absolute;
+  top: 362.5px;
+  left: 1362px;
+  display: inline-block;
+  width: 415.1px;
+}
+.monday,
+.tuesday,
+.wednsday {
+  top: 350.5px;
+  left: 967.9px;
+  width: 176.2px;
+}
+.tuesday,
+.wednsday {
+  top: 434.1px;
+  left: 964.9px;
+  width: 188.1px;
+}
+.wednsday {
+  top: 517.7px;
+  left: 967.9px;
+  width: 232.9px;
+}
+.friday,
+.friday1,
+.monday1,
+.monday2,
+.thursday,
+.tuesday1 {
+  position: absolute;
+  top: 595.4px;
+  left: 967.9px;
+  display: inline-block;
+  width: 176.2px;
+}
+.friday,
+.friday1,
+.monday2,
+.thursday,
+.tuesday1 {
+  top: 690.9px;
+  width: 143.3px;
+}
+.friday1,
+.monday2,
+.thursday,
+.tuesday1 {
+  top: 762.6px;
+  width: 212px;
+}
+.friday1,
+.monday2,
+.tuesday1 {
+  top: 840.2px;
+  width: 176.2px;
+}
+.friday1,
+.tuesday1 {
+  top: 920.8px;
+  left: 964.9px;
+  width: 188.1px;
+}
+.friday1 {
+  top: 1001.5px;
+  width: 143.3px;
+}
+.monday3 {
+  top: 1076.1px;
+  left: 964.9px;
+  width: 176.2px;
+}
+.date1,
+.monday3,
+.practices,
+.time1,
+.tuesday2 {
+  position: absolute;
+  display: inline-block;
+}
+.tuesday2 {
+  top: 1156.7px;
+  left: 964.9px;
+  width: 188.1px;
+}
+.date1,
+.practices,
+.time1 {
+  font-size: 59.72px;
+}
+.practices {
+  top: 275.9px;
+  left: 209.4px;
+  width: 256.8px;
+  height: 80.6px;
+}
+.date1,
+.time1 {
+  top: 272.9px;
+  left: 967.9px;
+  width: 134.4px;
+}
+.time1 {
+  top: 275.9px;
+  left: 1502.4px;
+  width: 137.4px;
+}
+.badminton1,
+.baseball3,
+.basketball {
+  position: absolute;
+  top: 449.1px;
+  left: 212.4px;
+  display: inline-block;
+  width: 197.1px;
+}
+.badminton1,
+.basketball {
+  top: 359.5px;
+  width: 247.8px;
+}
+.basketball {
+  top: 529.7px;
+  width: 238.9px;
+}
+.carrom {
+  position: absolute;
+  top: 610.3px;
+  left: 209.4px;
+}
+.chess,
+.cricket,
+.elle {
+  position: absolute;
+  top: 687.9px;
+  left: 212.4px;
+  display: inline-block;
+  width: 128.4px;
+}
+.cricket,
+.elle {
+  top: 768.6px;
+  width: 152.3px;
+}
+.elle {
+  top: 843.2px;
+  width: 86.6px;
+}
+.football,
+.hockey,
+.karate,
+.kick-boxing,
+.pm-500pm1,
+.pm-500pm2 {
+  position: absolute;
+  top: 929.8px;
+  left: 212.4px;
+  display: inline-block;
+  width: 194.1px;
+}
+.hockey,
+.karate,
+.kick-boxing,
+.pm-500pm1,
+.pm-500pm2 {
+  top: 1001.5px;
+  width: 158.3px;
+}
+.karate,
+.kick-boxing,
+.pm-500pm1,
+.pm-500pm2 {
+  top: 1088.1px;
+  width: 149.3px;
+}
+.kick-boxing,
+.pm-500pm1,
+.pm-500pm2 {
+  top: 1162.7px;
+  width: 256.8px;
+}
+.pm-500pm1,
+.pm-500pm2 {
+  top: 520.7px;
+  left: 1362px;
+  width: 415.1px;
+}
+.pm-500pm2 {
+  top: 443.1px;
+  width: 418px;
+}
+.line1,
+.line2 {
+  position: absolute;
+  top: 271.4px;
+  left: 784.2px;
+  border-right: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 3px;
+  height: 1125.7px;
+}
+.line2 {
+  left: 1294.8px;
+}
+.daily-events1 {
+  position: relative;
+  -webkit-text-stroke: 3px #000;
+}
+.header3 {
+  position: absolute;
+  top: 47.8px;
+  left: 0;
+  background-color: rgba(57, 57, 57, 0.93);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 741px;
+  font-size: 95.55px;
+  color: #74ee96;
+  font-family: var(--font-jockey-one);
+}
+.cancel7 {
+  position: relative;
+}
+.cancel6 {
+  position: absolute;
+  top: 1433.9px;
+  left: 1676px;
+  background-color: var(--color-white);
+  border: 1.5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 148px;
+  height: 55.1px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 13.055279731750488px 37.71525573730469px;
+  cursor: pointer;
+  font-size: 26.11px;
+  color: var(--color-gray-100);
+}
+.dailyevents {
+  position: relative;
+  width: 100%;
+  height: 1516.9px;
+  overflow: hidden;
+  background-image: url(/public/dailyevents@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 47.78px;
+  color: var(--color-black);
+  font-family: var(--font-inder);
+}

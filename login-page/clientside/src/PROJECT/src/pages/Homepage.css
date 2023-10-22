@@ -1,0 +1,377 @@
+.homeimage-icon {
+  position: relative;
+  width: 1917px;
+  height: 627.6px;
+  object-fit: cover;
+}
+.discription {
+  position: relative;
+  display: inline-block;
+  width: 1789.3px;
+  height: 184.4px;
+  flex-shrink: 0;
+}
+.middle2 {
+  position: absolute;
+  top: 260.2px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 143px;
+}
+.welcome,
+.welcomeback {
+  position: absolute;
+  top: 0;
+}
+.welcomeback {
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1932.7px;
+  height: 98.3px;
+}
+.welcome {
+  left: calc(50% - 158.45px);
+}
+.middle {
+  position: absolute;
+  top: 898.7px;
+  left: -15.7px;
+  width: 1932.7px;
+  height: 114.1px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 67.61px;
+  color: #302e2e;
+  font-family: var(--font-baloo-da);
+}
+.uopname-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0.68px;
+  width: 370.2px;
+  height: 259.5px;
+  object-fit: cover;
+}
+.department-of-physical {
+  margin-block-start: 0;
+  margin-block-end: 7.51px;
+  font-weight: 600;
+}
+.university-of-peradeniya {
+  margin: 0;
+  font-size: 34.15px;
+}
+.department-of-physical-container {
+  position: absolute;
+  top: 88.8px;
+  left: calc(50% - 361.6px);
+  display: inline-block;
+  width: 1117.3px;
+  height: 129.8px;
+  backdrop-filter: blur(2.73px);
+  -webkit-text-stroke: 0.7px #000;
+}
+.headerback {
+  position: absolute;
+  top: 0;
+  left: 370.2px;
+  background-color: rgba(224, 195, 93, 0.55);
+  width: 1546.8px;
+  height: 251.3px;
+}
+.unilogo-icon {
+  position: absolute;
+  top: 19.8px;
+  left: calc(50% + 150.6px);
+  width: 69.1px;
+  height: 69.8px;
+  object-fit: cover;
+}
+.naviback {
+  position: absolute;
+  top: -0.7px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1207.4px;
+  height: 41px;
+}
+.about-us,
+.equipments,
+.home,
+.locker-system,
+.payments,
+.registration,
+.sports {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 11.6px;
+  font-size: 17.07px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+  height: 17.1px;
+}
+.home {
+  left: 13.7px;
+  color: #141111;
+  width: 57.4px;
+}
+.about-us,
+.equipments,
+.locker-system,
+.payments,
+.registration,
+.sports {
+  left: 91.5px;
+  color: var(--color-black);
+  width: 80.6px;
+}
+.equipments,
+.locker-system,
+.payments,
+.registration,
+.sports {
+  left: 192.6px;
+  width: 99px;
+}
+.equipments,
+.locker-system,
+.payments,
+.sports {
+  left: 312.1px;
+  width: 83.3px;
+}
+.equipments,
+.locker-system,
+.sports {
+  left: 415.9px;
+  width: 97.7px;
+}
+.locker-system,
+.sports {
+  left: 534.1px;
+  width: 59.4px;
+}
+.locker-system {
+  top: 9.6px;
+  left: 607.8px;
+  width: 125.7px;
+  height: 16.4px;
+}
+.facilities {
+  left: 745.8px;
+  width: 78.5px;
+  height: 17.1px;
+}
+.classes,
+.daily-events,
+.facilities {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 9.6px;
+  font-size: 17.07px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.daily-events {
+  left: 836.6px;
+  width: 102.4px;
+  height: 17.1px;
+}
+.classes {
+  left: 951.3px;
+  width: 72.4px;
+}
+.navigationbar {
+  position: absolute;
+  top: 211px;
+  left: 375.6px;
+  width: 1207.4px;
+  height: 48.5px;
+  overflow: hidden;
+}
+.log-in {
+  position: relative;
+  font-size: 20.49px;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.loginback,
+.signupback {
+  cursor: pointer;
+  border: 0;
+  background-color: var(--color-goldenrod-200);
+  border-radius: 6.83px;
+  width: 143.4px;
+  height: 54.6px;
+  overflow: hidden;
+}
+.loginback {
+  padding: 8.878161430358887px 27.317419052124023px;
+  position: absolute;
+  top: 196.7px;
+  left: 1755.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.signupback {
+  padding: 0;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.sign-up,
+.signup {
+  position: absolute;
+  cursor: pointer;
+}
+.sign-up {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  margin: 0 !important;
+  top: 15px;
+  left: 33.5px;
+  font-size: 20.49px;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  z-index: 1;
+}
+.signup {
+  top: 196.7px;
+  left: 1602.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.header,
+.special-programmes {
+  position: absolute;
+  font-family: var(--font-inter);
+}
+.special-programmes {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 220.7px;
+  left: 1399.6px;
+  font-size: 17.92px;
+  font-weight: 500;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 194.2px;
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 1917px;
+  height: 259.5px;
+  overflow: hidden;
+  font-size: 61.46px;
+}
+.blank-line,
+.contact-us {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.contact-us {
+  font-size: 34.15px;
+}
+.blank-line {
+  font-family: var(--font-inria-serif);
+}
+.departments-of-physical-educat {
+  font-size: var(--font-size-xl);
+}
+.blank-line2,
+.departments-of-physical-educat,
+.peradeniya,
+.telephone {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.blank-line2,
+.telephone {
+  font-size: var(--font-size-11xl);
+}
+.blank-line2 {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inria-serif);
+}
+.director-081-239-2164 {
+  margin: 0;
+}
+.contact-us-departments-container {
+  position: absolute;
+  top: 2px;
+  left: 74px;
+  display: inline-block;
+  width: 607.8px;
+  height: 386.5px;
+}
+.callicon,
+.locationicon {
+  position: absolute;
+  top: 202px;
+  left: 40px;
+  width: 29.4px;
+  height: 27.3px;
+  object-fit: cover;
+}
+.locationicon {
+  top: 77px;
+  width: 27.3px;
+  height: 29.4px;
+}
+.footer {
+  position: absolute;
+  top: 1228px;
+  left: 0;
+  background-color: var(--color-goldenrod-200);
+  width: 1917px;
+  height: 485px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 27.32px;
+  font-family: var(--font-inika);
+}
+.homepage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1714.2px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 28.68px;
+  color: var(--color-black);
+  font-family: var(--font-inria-serif);
+}
+@media screen and (max-width: 1200px) {
+  .homepage {
+    width: 1920px;
+    height: 1280px;
+  }
+}

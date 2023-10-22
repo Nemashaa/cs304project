@@ -1,0 +1,212 @@
+.background4 {
+  position: absolute;
+  top: -6.4px;
+  left: 0;
+  background-color: var(--color-gray-700);
+  width: 1917px;
+  height: 1265.9px;
+}
+.formbackground {
+  position: absolute;
+  top: -3px;
+  left: 468px;
+  background-color: #c9c9c9;
+  width: 982px;
+  height: 1259.1px;
+}
+.first-name,
+.last-name {
+  position: absolute;
+  top: 204.4px;
+  left: 497px;
+}
+.last-name {
+  top: 262.5px;
+  color: rgba(0, 0, 0, 0.97);
+}
+.contact,
+.gender {
+  position: absolute;
+  top: 320.5px;
+  left: 497px;
+}
+.contact {
+  top: 378.5px;
+}
+.address,
+.email,
+.new-password {
+  position: absolute;
+  top: 436.5px;
+  left: 497px;
+}
+.email,
+.new-password {
+  top: 494.6px;
+}
+.new-password {
+  top: 552.6px;
+  left: 495.6px;
+}
+.re-enter-password,
+.which-sport-and {
+  position: absolute;
+  top: 610.6px;
+  left: 495.6px;
+}
+.which-sport-and {
+  top: 694.7px;
+  left: 497px;
+}
+.adress,
+.contact1,
+.email1,
+.fname,
+.gender1,
+.lname,
+.password,
+.password2,
+.sports1 {
+  border: 1.5px solid var(--color-white);
+  background-color: var(--color-gray-300);
+  position: absolute;
+  top: 204.4px;
+  left: 672.5px;
+  border-radius: 7.25px;
+  box-sizing: border-box;
+  width: 383px;
+  height: 33.4px;
+}
+.adress,
+.contact1,
+.email1,
+.gender1,
+.lname,
+.password,
+.password2,
+.sports1 {
+  top: 262.5px;
+}
+.adress,
+.contact1,
+.email1,
+.gender1,
+.password,
+.password2,
+.sports1 {
+  top: 320.5px;
+  width: 166.8px;
+}
+.adress,
+.contact1,
+.email1,
+.password,
+.password2,
+.sports1 {
+  top: 378.5px;
+  width: 291.6px;
+}
+.adress,
+.email1,
+.password,
+.password2,
+.sports1 {
+  top: 436.5px;
+  width: 591.8px;
+}
+.email1,
+.password,
+.password2,
+.sports1 {
+  top: 494.6px;
+}
+.password,
+.password2,
+.sports1 {
+  top: 552.6px;
+  left: 774.1px;
+  width: 332.2px;
+}
+.password2,
+.sports1 {
+  top: 610.6px;
+}
+.sports1 {
+  top: 754.2px;
+  left: 497px;
+  width: 897.9px;
+  height: 107.3px;
+}
+.save1 {
+  position: relative;
+}
+.cancel10,
+.save {
+  position: absolute;
+  top: 992.1px;
+  box-sizing: border-box;
+  width: 148px;
+  height: 55.1px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 13.055279731750488px 37.71525573730469px;
+}
+.save {
+  left: 978.6px;
+  background-color: #274dd7;
+  color: var(--color-gray-400);
+}
+.cancel10 {
+  left: 792.9px;
+  background-color: var(--color-white);
+  border: 1.5px solid var(--color-white);
+  cursor: pointer;
+  color: var(--color-gray-100);
+}
+.headerback3 {
+  position: absolute;
+  top: -3px;
+  left: 468px;
+  background-color: var(--color-black);
+  width: 982px;
+  height: 103px;
+}
+.user-registration-form {
+  position: absolute;
+  top: 17.3px;
+  left: calc(50% - 261.3px);
+  font-size: 46.42px;
+  color: rgba(65, 239, 239, 0.97);
+  display: inline-block;
+  width: 523.7px;
+  height: 75.4px;
+}
+.info-icon-1,
+.info-icon-2 {
+  position: absolute;
+  top: 555.5px;
+  left: 1115px;
+  width: 21.8px;
+  height: 24.7px;
+  object-fit: cover;
+}
+.info-icon-1 {
+  top: 613.5px;
+}
+.registrationform {
+  position: relative;
+  width: 100%;
+  height: 1259.5px;
+  overflow: hidden;
+  background-image: url(/public/registrationform@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 26.11px;
+  color: var(--color-black);
+  font-family: var(--font-inder);
+}

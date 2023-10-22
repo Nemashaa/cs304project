@@ -1,0 +1,231 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-700);
+  width: 1917px;
+  height: 1392.4px;
+}
+.headerequipmentbooking {
+  position: absolute;
+  top: -12.7px;
+  left: calc(50% - 564.3px);
+  font-size: 101.73px;
+  color: #7ce6e6;
+  -webkit-text-stroke: 3.2px #000;
+}
+.equipmentname {
+  position: absolute;
+  top: 279.8px;
+  left: 248px;
+  display: inline-block;
+  width: 540.4px;
+}
+.equipmentnameinput,
+.paymentinput {
+  border: 3.2px solid var(--color-black);
+  background-color: var(--color-gray-800);
+  position: absolute;
+  top: 295.7px;
+  left: 861.5px;
+  border-radius: 31.79px;
+  box-sizing: border-box;
+  width: 807.5px;
+  height: 89px;
+}
+.paymentinput {
+  top: 530px;
+  left: 862px;
+}
+.quantity {
+  position: absolute;
+  top: 413.3px;
+  left: 248px;
+  display: inline-block;
+  width: 537.3px;
+}
+.optional {
+  font-size: var(--font-size-11xl);
+}
+.payment-optional {
+  position: absolute;
+  top: 546.8px;
+  left: 248px;
+  display: inline-block;
+  width: 572.2px;
+}
+.dateinput {
+  top: 823.4px;
+  background-color: var(--color-white);
+  border: 3.2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 855.2px;
+  height: 127.2px;
+}
+.date,
+.dateinput,
+.datetoinput {
+  position: absolute;
+  left: 85.8px;
+}
+.datetoinput {
+  top: 1017.3px;
+  background-color: var(--color-white);
+  border: 3.2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 855.2px;
+  height: 127.2px;
+}
+.date {
+  top: 702.6px;
+  font-weight: 600;
+}
+.to {
+  top: 965px;
+  left: 92px;
+  font-size: var(--font-size-xl);
+}
+.time,
+.to,
+.to1 {
+  position: absolute;
+  font-weight: 600;
+}
+.to1 {
+  top: 956px;
+  left: 1069px;
+  font-size: var(--font-size-xl);
+}
+.time {
+  top: 702.6px;
+  left: 1068.2px;
+}
+.quantityinput,
+.timeinput,
+.timetoinput {
+  position: absolute;
+  border: 3.2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.quantityinput {
+  background-color: var(--color-gray-800);
+  top: 413px;
+  left: 862px;
+  border-radius: 31.79px;
+  width: 807.5px;
+  height: 89px;
+}
+.timeinput,
+.timetoinput {
+  top: 823.4px;
+  left: 1068.2px;
+  background-color: var(--color-white);
+  width: 565.9px;
+  height: 127.2px;
+}
+.timetoinput {
+  top: 1014.1px;
+}
+.pm-400,
+.pm-4001 {
+  border: 0;
+  font-family: var(--font-inder);
+  font-size: 38.15px;
+  background-color: transparent;
+  position: absolute;
+  top: 861.5px;
+  left: 1103.1px;
+  color: var(--color-black);
+  text-align: left;
+}
+.pm-4001 {
+  top: 1065px;
+}
+.dateicon,
+.dateicon1 {
+  position: absolute;
+  top: 823.4px;
+  left: 829.7px;
+  width: 114.4px;
+  height: 127.2px;
+  object-fit: cover;
+}
+.dateicon1 {
+  top: 1017.3px;
+}
+.input,
+.input1 {
+  border: 0;
+  font-family: var(--font-inder);
+  font-size: 38.15px;
+  background-color: transparent;
+  position: absolute;
+  top: 861.5px;
+  left: 146.2px;
+  color: var(--color-black);
+  text-align: left;
+}
+.input1 {
+  top: 1055.5px;
+}
+.cancel3 {
+  position: relative;
+}
+.cancel2 {
+  position: absolute;
+  top: 1255.7px;
+  left: 1344.8px;
+  border-radius: 27px;
+  background-color: var(--color-dimgray-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 85.83582305908203px;
+  cursor: pointer;
+  font-size: 38.15px;
+}
+.timeicon,
+.timeicon1 {
+  position: absolute;
+  top: 823.4px;
+  left: 1510.1px;
+  width: 124px;
+  height: 127.2px;
+  object-fit: cover;
+}
+.timeicon1 {
+  top: 1014.1px;
+}
+.submit {
+  position: absolute;
+  top: 1250px;
+  left: 958px;
+  border-radius: 29.22px;
+  background-color: var(--color-darkblue);
+  border: 2.9px solid var(--color-black);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-4xl) var(--padding-57xl);
+  cursor: pointer;
+  font-size: 49.68px;
+  font-family: var(--font-inder);
+}
+.equipmentbooking {
+  position: relative;
+  width: 100%;
+  height: 1392.4px;
+  overflow: hidden;
+  background-image: url(/public/equipmentbooking@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 47.69px;
+  color: var(--color-white);
+  font-family: var(--font-inknut-antiqua);
+}

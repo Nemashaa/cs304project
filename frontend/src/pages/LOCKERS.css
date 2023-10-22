@@ -1,0 +1,243 @@
+.background-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1917px;
+  height: 1674px;
+}
+.b23 {
+  position: relative;
+}
+.badminton4,
+.baseball6 {
+  border-radius: var(--br-3xl-1);
+  background-color: var(--color-turquoise);
+  border: 3.7px solid var(--color-gray-200);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 59.676025390625px 33.89008712768555px;
+  gap: 85.46px;
+  cursor: pointer;
+}
+.baseball6 {
+  box-sizing: border-box;
+  width: 296.9px;
+  flex-shrink: 0;
+}
+.b25 {
+  position: relative;
+  font-size: var(--font-size-25xl-2);
+  font-family: var(--font-inria-serif);
+  color: var(--color-black);
+  text-align: left;
+}
+.basketball5 {
+  cursor: pointer;
+  max-width: 296.9065856933594px;
+}
+.basketball5,
+.carrom3 {
+  border-radius: var(--br-3xl-1);
+  background-color: var(--color-turquoise);
+  border: 3.7px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 296.9px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 59.676025390625px 33.89008712768555px;
+  gap: 85.46px;
+}
+.strow1 {
+  position: absolute;
+  top: 356.9px;
+  left: 128.2px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 51.57px;
+}
+.cricket3,
+.ndrow1,
+.strow1 {
+  border-radius: var(--br-3xl-1);
+  display: flex;
+  justify-content: flex-start;
+}
+.cricket3 {
+  background-color: var(--color-goldenrod-100);
+  border: 3.7px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 296.9px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  padding: 59.676025390625px 33.89008712768555px;
+  gap: 85.46px;
+}
+.ndrow1 {
+  position: absolute;
+  top: 595.5px;
+  left: 128px;
+  width: 1297.4px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 51.57px;
+}
+.kick-boxing6 {
+  margin: 0;
+}
+.kick-boxing4 {
+  border-radius: var(--br-3xl-1);
+  background-color: var(--color-mediumorchid);
+  border: 3.7px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 296.9px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 59.676025390625px 33.89008712768555px;
+  gap: 85.46px;
+}
+.rugby-football3 {
+  position: relative;
+  font-size: 40.52px;
+}
+.rdrow1 {
+  position: absolute;
+  top: 834.5px;
+  left: 128px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 52px;
+}
+.b38 {
+  position: relative;
+  display: inline-block;
+  width: 43.5px;
+}
+.taekwondo2,
+.throw2 {
+  border-radius: var(--br-3xl-1);
+}
+.taekwondo2 {
+  background-color: var(--color-tomato);
+  border: 3.7px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 296.9px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 59.676025390625px 33.89008712768555px;
+  gap: 85.46px;
+}
+.throw2 {
+  position: absolute;
+  top: 1073.5px;
+  left: 128px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 51.57px;
+}
+.throw2,
+.throw3,
+.volleyball2 {
+  display: flex;
+  justify-content: flex-start;
+}
+.volleyball2 {
+  border-radius: var(--br-3xl-1);
+  background-color: var(--color-limegreen);
+  border: 3.7px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 296.9px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  padding: 59.676025390625px 33.89008712768555px;
+  gap: 85.46px;
+}
+.throw3 {
+  position: absolute;
+  top: 1312.5px;
+  left: 128px;
+  border-radius: 28.73px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 51.57px;
+}
+.headerback2 {
+  position: relative;
+  border-radius: 0 0 14.73px 14.73px;
+  background-color: rgba(0, 0, 0, 0.35);
+  width: 1917px;
+  height: 274.1px;
+  z-index: 0;
+}
+.locker-system1 {
+  position: relative;
+  -webkit-text-stroke: 2.2px #000;
+}
+.lockerheader,
+.lockerheader1 {
+  position: absolute;
+  display: flex;
+}
+.lockerheader1 {
+  margin: 0 !important;
+  top: 70px;
+  left: 128.2px;
+  border-radius: 30.21px;
+  background-color: rgba(164, 107, 22, 0.75);
+  box-shadow: 0 2.9px 2.95px rgba(0, 0, 0, 0.25);
+  width: 791.3px;
+  height: 161.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 42.73097229003906px 43.467716217041016px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.lockerheader {
+  top: 0;
+  left: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: 81.04px;
+  color: var(--color-lime);
+  font-family: var(--font-odor-mean-chey);
+}
+.lockers {
+  position: relative;
+  width: 100%;
+  height: 1673.9px;
+  overflow: hidden;
+  background-image: url(/public/lockers@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-25xl-2);
+  color: var(--color-black);
+  font-family: var(--font-inria-serif);
+}
