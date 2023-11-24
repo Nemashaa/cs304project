@@ -1,0 +1,384 @@
+.department-of-physical {
+  margin-block-start: 0;
+  margin-block-end: 7.51px;
+  font-weight: 600;
+}
+.university-of-peradeniya {
+  margin: 0;
+  font-size: 34.15px;
+}
+.department-of-physical-container {
+  position: absolute;
+  top: 75px;
+  left: calc(50% - 361.5px);
+  display: inline-block;
+  width: 1117.3px;
+  height: 129.8px;
+  text-shadow: 8px 8px 5px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 0.7px #000;
+}
+.headerback {
+  position: absolute;
+  top: 0;
+  left: 367px;
+  background-color: rgba(224, 195, 93, 0.55);
+  width: 1550px;
+  height: 259px;
+}
+.unilogo-icon {
+  position: absolute;
+  top: 9px;
+  left: calc(50% + 149.5px);
+  width: 69.1px;
+  height: 69.8px;
+  object-fit: cover;
+}
+.log-out {
+  position: relative;
+}
+.logout {
+  position: absolute;
+  top: 197px;
+  left: 1737px;
+  border-radius: 24px;
+  background-color: rgba(249, 67, 9, 0.65);
+  width: 133px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 15px 6px;
+  box-sizing: border-box;
+  font-size: 26px;
+  font-family: var(--font-arima-madurai);
+}
+.naviback {
+  position: absolute;
+  top: -0.7px;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 1207.4px;
+  height: 41px;
+  display: none;
+}
+.about-us,
+.equipments,
+.home,
+.locker-system,
+.payments,
+.registration,
+.sports {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  font-size: 17.07px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+  height: 17.1px;
+}
+.home {
+  left: 18px;
+  color: #141111;
+  width: 57.4px;
+}
+.about-us,
+.equipments,
+.locker-system,
+.payments,
+.registration,
+.sports {
+  left: 91.5px;
+  color: var(--color-black);
+  width: 80.6px;
+}
+.equipments,
+.locker-system,
+.payments,
+.registration,
+.sports {
+  left: 192.6px;
+  width: 99px;
+}
+.equipments,
+.locker-system,
+.payments,
+.sports {
+  left: 312.1px;
+  width: 83.3px;
+}
+.equipments,
+.locker-system,
+.sports {
+  left: 415.9px;
+  width: 97.7px;
+}
+.locker-system,
+.sports {
+  left: 534.1px;
+  width: 59.4px;
+}
+.locker-system {
+  left: 608px;
+  width: 125.7px;
+  height: 16.4px;
+}
+.facilities {
+  left: 747px;
+  width: 78.5px;
+  height: 17.1px;
+}
+.classes,
+.daily-events,
+.facilities,
+.special-programmes {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  font-size: 17.07px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.daily-events {
+  left: 837px;
+  width: 102.4px;
+  height: 17.1px;
+}
+.classes,
+.special-programmes {
+  left: 949px;
+  width: 72.4px;
+}
+.special-programmes {
+  left: 1024px;
+  font-size: 17.92px;
+  width: 194.2px;
+}
+.navigationbar {
+  position: absolute;
+  top: 205px;
+  left: 375px;
+  border-radius: 10px;
+  background-color: var(--color-white);
+  width: 1218px;
+  height: 48px;
+  overflow: hidden;
+}
+.header,
+.uopname-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.uopname-icon {
+  width: 368px;
+  height: 259px;
+  object-fit: cover;
+}
+.header {
+  width: 1917px;
+  height: 260px;
+  overflow: hidden;
+}
+.mapimage-icon {
+  position: absolute;
+  top: 37px;
+  left: 1457px;
+  border-radius: var(--br-xl);
+  width: 405px;
+  height: 265px;
+  object-fit: cover;
+}
+.blank-line,
+.contact-us {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.contact-us {
+  font-size: 34.15px;
+}
+.blank-line {
+  font-family: var(--font-inria-serif);
+}
+.departments-of-physical-educat {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+  font-size: var(--font-size-xl);
+}
+.blank-line2,
+.peradeniya,
+.telephone {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.telephone {
+  font-size: 30px;
+}
+.blank-line2 {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inria-serif);
+}
+.director-081-239-2164 {
+  margin: 0;
+}
+.contact-us-departments-container {
+  position: absolute;
+  top: 0;
+  left: 34px;
+  display: inline-block;
+  width: 607.8px;
+  height: 386.5px;
+}
+.callicon,
+.locationicon {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 29.4px;
+  height: 27.3px;
+  object-fit: cover;
+}
+.locationicon {
+  top: 75px;
+  width: 27.3px;
+  height: 29.4px;
+}
+.contactus,
+.footer {
+  position: absolute;
+  top: 9px;
+  left: 23px;
+  width: 746px;
+  height: 387px;
+  overflow: hidden;
+}
+.footer {
+  top: 1877px;
+  left: 0;
+  background-color: #dd9c0f;
+  width: 1917px;
+  height: 338px;
+  text-align: left;
+  font-size: 27.32px;
+  font-family: var(--font-inika);
+}
+.backpic1-icon {
+  position: absolute;
+  top: 271px;
+  left: calc(50% - 958.5px);
+  width: 1918px;
+  height: 453px;
+  object-fit: cover;
+}
+.pexels-thibault-trillet-167491-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 400px;
+  height: 346px;
+  object-fit: cover;
+}
+.musical-events {
+  position: absolute;
+  top: 101px;
+  left: 63px;
+  font-weight: 600;
+  display: inline-block;
+  width: 273px;
+  height: 199px;
+  -webkit-text-stroke: 2px #000;
+}
+.eventbutton1 {
+  position: absolute;
+  top: 164px;
+  left: 177px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-silver);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.25);
+  width: 400px;
+  height: 346px;
+  overflow: hidden;
+}
+.special-programmes1 {
+  position: absolute;
+  top: 92px;
+  left: 31px;
+  font-weight: 600;
+  display: inline-block;
+  width: 337px;
+  height: 199px;
+  -webkit-text-stroke: 2px #000;
+}
+.eventbutton11,
+.eventbutton2,
+.eventbutton3 {
+  position: absolute;
+  border-radius: var(--br-xl);
+  background-color: var(--color-silver);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.25);
+  width: 400px;
+  height: 346px;
+  overflow: hidden;
+}
+.eventbutton3 {
+  top: 630px;
+  left: calc(50% - 200px);
+}
+.eventbutton11,
+.eventbutton2 {
+  top: 164px;
+}
+.eventbutton2 {
+  left: calc(50% - 200px);
+}
+.eventbutton11 {
+  left: 1341px;
+}
+.available-events {
+  position: absolute;
+  top: 31px;
+  left: calc(50% - 191px);
+  font-weight: 600;
+  color: var(--color-black);
+}
+.eventbox,
+.line-icon {
+  position: absolute;
+  top: 115.5px;
+  left: calc(50% - 884px);
+  width: 1768px;
+  height: 1px;
+}
+.eventbox {
+  top: 739px;
+  left: calc(50% - 959.5px);
+  background-color: var(--color-white);
+  width: 1918px;
+  height: 1049px;
+  overflow: hidden;
+  font-size: var(--font-size-43xl);
+  color: var(--color-white);
+  font-family: var(--font-asap-condensed);
+}
+.eventshedule {
+  position: relative;
+  background-color: #e6e6e6;
+  width: 100%;
+  height: 2215px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 61.46px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

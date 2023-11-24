@@ -112,6 +112,7 @@ function App() {
       <Route path="/lockers" element={<LOCKERS />} />
       <Route path="/registrationform" element={<RegistrationForm />} />
       <Route path="/login-form" element={<LoginForm />} />
+      <Route path="/" element={<EventShedule />} />
     </Routes>
   );
 }
